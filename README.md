@@ -5,7 +5,7 @@
 - I'm currently studying C++, probability, and robotics.
 
 
-### Now I belong to the [MINT lab](https://mint-lab.github.io/) of Department of Computer Science.
+### Now I belong to the [MINT lab](https://mint-lab.github.io/) of Computer Science and Engineering.
 - I'm currently making a equipment called [MINT-Cart](https://github.com/mint-lab/Mint_Cart) to get data.
 - I'm researching a plane detection algorithm named ['Plane Fill'](https://github.com/mint-lab/Plane_Fill) to quickly detect planes.
 - I'm participating in NRF-bridge project that's making cleaning robot to clean an atypical building and I'm in charge of location recognition part.
