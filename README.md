@@ -14,3 +14,5 @@
 - we're using camera to specify where the book should be organized.
 - To see more information, please visit our [project repository](https://github.com/jwyeeh-dev/2023_Capstone_Project)
 
+### To contact me, please reach out to the email below.
+- hyunkil76@gmail.com or 17100404@seoultech.ac.kr
