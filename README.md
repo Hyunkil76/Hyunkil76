@@ -8,6 +8,7 @@
 ### Now I belong to the [MINT lab](https://mint-lab.github.io/) of Department of Computer Science.
 - I'm currently making a equipment called [MINT-Cart](https://github.com/mint-lab/Mint_Cart) to get data.
 - I'm researching a plane detection algorithm named ['Plane Fill'](https://github.com/mint-lab/Plane_Fill) to quickly detect planes.
+- I'm participating in NRF-bridge project that's making cleaning robot to clean an atypical building and I'm in charge of location recognition part.
 
 ### Now I'm making a mobile robot using Turtlebot3 packages without Dynamixel to help organize returned books as a graduate project.
 - We're making two wheeled differential drive robot with DC encoder motors.
