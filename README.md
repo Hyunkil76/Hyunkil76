@@ -1,6 +1,6 @@
 # Hello! I'm Hyunkil Hwang
 
-### I'm an undergraduate student at [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/index.jsp) and studying [Mechanical Automotive Engineering]() and [Electrical and Information Engineering](https://eie.seoultech.ac.kr/).
+### I'm an undergraduate student at [SEOULTECH](https://www.seoultech.ac.kr/index.jsp) and studying [Mechanical Automotive Engineering](https://mech.seoultech.ac.kr/en/) and [Electrical and Information Engineering](https://eie.seoultech.ac.kr/).
 - I'm interested in Deep Learning, SLAM, Self-driving.
 - I'm currently studying C++, probability, and robotics.
 
